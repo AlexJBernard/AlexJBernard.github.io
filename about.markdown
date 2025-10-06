@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is **Alex Bernard**!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Go on?
+In 2023, graduated from NC State University with a Bachelor's Degree in Computer Science. Since then, I've been broadening my horizons and learning more about web frameworks and other coding languages.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I specialize in Application, Back-End, and Application Development using languages such as Java, HTML, JavaScript, and PHP. 
 
+## Contacts
+### Looking to hire?
+#### Email me at [alexjbernard.nc@gmail.com](mailto:alexjbernard.nc@gmail.com)
+or...
+#### Connect with me at [www.linkedin.com/in/alex-j-bernard](https://www.linkedin.com/in/alex-j-bernard/)
 
-[jekyll-organization]: https://github.com/jekyll
+### Want to see previous work?
+#### View in-depth project repositories at [github.com/AlexJBernard](https://github.com/AlexJBernard)
+or...
+#### View my released games at [https://ferrousavian.itch.io/](https://ferrousavian.itch.io/)
